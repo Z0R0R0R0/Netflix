@@ -405,4 +405,8 @@ footer {
     }
     
 }
-
+.logo{
+    width: 160px;
+    position: relative;
+    z-index: 10;
+}
